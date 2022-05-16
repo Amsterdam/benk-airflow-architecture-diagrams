@@ -3,5 +3,8 @@ Contains architecture diagrams for BenK airflow applications.
 
 Diagrams are created and edited with [draw.io](https://draw.io).
 
-## Automatically saving files
-To save diagrams from draw.io, connect it to this repository using the library functionality.
+[Edit benk_airflow_architecture](https://app.diagrams.net/#HAmsterdam%2Fbenk-airflow-architecture-diagrams%2Fmain%2Fbenk_airflow_architecture.drawio)
+
+[Edit benk_airflow_image_architecture](https://app.diagrams.net/#HAmsterdam%2Fbenk-airflow-architecture-diagrams%2Fmain%2Fbenk_airflow_image_architecture.drawio)
+
+[Edit benk_dag_architecture](https://app.diagrams.net/#HAmsterdam%2Fbenk-airflow-architecture-diagrams%2Fmain%2Fbenk_dag_architecture.drawio)
